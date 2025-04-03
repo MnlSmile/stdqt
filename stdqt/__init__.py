@@ -1,6 +1,6 @@
 """
 Include almost all modules and classes of PyQt5.
-Use only in early development.
+Use only in early developments.
 """
 
 from PyQt5 import *
